@@ -1,0 +1,32 @@
+{
+    "_default": {
+        "1": {
+            "temp_name": "EmployerForm_1",
+            "user_name": "text",
+            "user_phone": "phone",
+            "user_email": "email",
+            "hire_date": "date"
+        },
+        "2": {
+            "temp_name": "EmployerForm_2",
+            "user_name": "text",
+            "hire_date": "date"
+        },
+        "3": {
+            "temp_name": "EmployerForm_3",
+            "user_name": "text",
+            "user_phone": "phone",
+            "user_email": "email"
+        },
+        "4": {
+            "temp_name": "EmployerForm_4",
+            "user_name": "text"
+        },
+        "5": {
+            "temp_name": "EmployerForm_5",
+            "user_name": "text",
+            "user_email": "email",
+            "hire_date": "date"
+        }
+    }
+}
